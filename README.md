@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Marcin</h1>
-<h3>A passionate frontend developer from Poland</h3>
+<h3>A passionate frontend developer from Rzeszow, Poland</h3>
 
 - I’m currently learning **all about frontend development**
 
